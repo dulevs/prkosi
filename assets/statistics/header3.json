@@ -1,0 +1,32 @@
+{
+    "columns": [
+        {
+            "field": "презиме",
+            "resizable": true,
+            "flex": 2,
+            "tooltipField": "презиме",
+            "headerTooltip": "презиме"
+        },
+        {
+            "field": "име оца",
+            "resizable": true,
+            "flex": 1,
+            "tooltipField": "име оца",
+            "headerTooltip": "име оца"
+        },
+        {
+            "field": "име",
+            "resizable": true,
+            "flex": 2,
+            "tooltipField": "име",
+            "headerTooltip": "име"
+        },
+        {
+            "field": "број чланова породице",
+            "resizable": true,
+            "flex": 2,
+            "tooltipField": "број чланова породице",
+            "headerTooltip": "број чланова породице"
+        }
+    ]
+}

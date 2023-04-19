@@ -1,0 +1,25 @@
+{
+    "columns": [
+        {
+            "field": "година",
+            "resizable": true,
+            "flex": 1,
+            "tooltipField": "година",
+            "headerTooltip": "година"
+        },
+        {
+            "field": "догађај",
+            "resizable": true,
+            "flex": 3,
+            "tooltipField": "догађај",
+            "headerTooltip": "догађај"
+        },
+        {
+            "field": "последица",
+            "resizable": true,
+            "flex": 3,
+            "tooltipField": "последица",
+            "headerTooltip": "последица"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "columns": [
+        {
+            "field": "prezime (ime oca) ime",
+            "resizable": true,
+            "flex": 3,
+            "tooltipField": "prezime (ime oca) ime",
+            "headerTooltip": "prezime (ime oca) ime"
+        },
+        {
+            "field": "datum rođenja",
+            "resizable": true,
+            "flex": 1,
+            "tooltipField": "datum rođenja",
+            "headerTooltip": "datum rođenja"
+        },
+        {
+            "field": "datum pogibije",
+            "resizable": true,
+            "flex": 4,
+            "tooltipField": "datum pogibije",
+            "headerTooltip": "datum pogibije"
+        },
+        {
+            "field": "mesto pogibije , ID",
+            "resizable": true,
+            "flex": 3,
+            "tooltipField": "mesto pogibije , ID",
+            "headerTooltip": "mesto pogibije , ID"
+        }
+    ]
+}

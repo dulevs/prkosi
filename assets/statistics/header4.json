@@ -1,0 +1,46 @@
+{
+    "columns": [
+        {
+            "field": "рб",
+            "resizable": true,
+            "flex": 1,
+            "tooltipField": "рб",
+            "headerTooltip": "рб"
+        },
+        {
+            "field": "презиме",
+            "resizable": true,
+            "flex": 5,
+            "tooltipField": "презиме",
+            "headerTooltip": "презиме"
+        },
+        {
+            "field": "име оца",
+            "resizable": true,
+            "flex": 5,
+            "tooltipField": "име оца",
+            "headerTooltip": "име оца"
+        },
+        {
+            "field": "име",
+            "resizable": true,
+            "flex": 4,
+            "tooltipField": "име",
+            "headerTooltip": "име"
+        },
+        {
+            "field": "девојачко",
+            "resizable": true,
+            "flex": 5,
+            "tooltipField": "девојачко",
+            "headerTooltip": "девојачко"
+        },
+        {
+            "field": "чин",
+            "resizable": true,
+            "flex": 5,
+            "tooltipField": "чин",
+            "headerTooltip": "чин"
+        }
+    ]
+}
